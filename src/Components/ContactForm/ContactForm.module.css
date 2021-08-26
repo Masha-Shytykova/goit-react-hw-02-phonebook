@@ -1,0 +1,27 @@
+.form {
+  border: 1px solid grey;
+  max-width: 500px;
+  padding: 20px;
+}
+.form__input {
+  display: flex;
+  flex-direction: column;
+  height: 25px;
+  margin: 10px;
+  border: 1px solid grey;
+  font-size: 16px;
+}
+
+.form__label {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.form__btn {
+  margin-top: 15px;
+  margin-left: 10px;
+  font-size: 16px;
+  width: 120px;
+  height: 30px;
+  border-radius: 7%;
+}
